@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "stages": {
+    "resource_finder": {
+      "success": true,
+      "completion_marker": "/data/hypogenicai/workspaces/lm-predict-thinking-edcf/.resource_finder_complete",
+      "outputs": {
+        "literature_review": "/data/hypogenicai/workspaces/lm-predict-thinking-edcf/literature_review.md",
+        "resources_catalog": "/data/hypogenicai/workspaces/lm-predict-thinking-edcf/resources.md",
+        "papers_dir": "/data/hypogenicai/workspaces/lm-predict-thinking-edcf/papers",
+        "datasets_dir": "/data/hypogenicai/workspaces/lm-predict-thinking-edcf/datasets",
+        "code_dir": "/data/hypogenicai/workspaces/lm-predict-thinking-edcf/code"
+      },
+      "log_file": "/data/hypogenicai/workspaces/lm-predict-thinking-edcf/logs/resource_finder_codex.log",
+      "elapsed_time": 647.9177179336548
+    },
+    "experiment_runner": {
+      "success": true,
+      "return_code": 0,
+      "elapsed_time": 1921.1714162826538,
+      "log_file": "/data/hypogenicai/workspaces/lm-predict-thinking-edcf/logs/execution_codex.log"
+    }
+  },
+  "work_dir": "/data/hypogenicai/workspaces/lm-predict-thinking-edcf"
+}

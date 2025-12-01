@@ -1,0 +1,21 @@
+{
+  "cot": {
+    "n": 20,
+    "accuracy": 0.0,
+    "mean_reasoning_tokens": 145.85,
+    "median_reasoning_tokens": 157.5,
+    "total_tokens": 2933,
+    "accuracy_per_1k_tokens": 0.0
+  },
+  "predict": {
+    "n": 20,
+    "accuracy": 0.0,
+    "mean_reasoning_tokens": 112.8,
+    "median_reasoning_tokens": 113.5,
+    "total_tokens": 3786,
+    "mae_predicted_tokens": 198.22222222222223,
+    "bias_predicted_tokens": 7.333333333333333,
+    "corr_pred_vs_actual": 0.13626903590621936,
+    "accuracy_per_1k_tokens": 0.0
+  }
+}

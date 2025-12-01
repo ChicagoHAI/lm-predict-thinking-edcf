@@ -1,0 +1,5 @@
+Resource finding phase completed successfully.
+Timestamp: $(date -Iseconds)
+Papers downloaded: 6
+Datasets downloaded: 1
+Repositories cloned: 2

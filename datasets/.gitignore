@@ -1,0 +1,9 @@
+# Ignore dataset payloads
+*
+!.gitignore
+!README.md
+!**/README.md
+!**/samples/
+!**/samples/**
+!**/*download*.sh
+!**/*download*.txt
