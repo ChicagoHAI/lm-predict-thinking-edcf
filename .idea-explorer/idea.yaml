@@ -1,0 +1,19 @@
+idea:
+  title: Can LMs predict their own thinking tokens?
+  domain: nlp
+  hypothesis: 'Language models can predict the number of tokens they will generate
+    (i.e., their own "thinking time") before producing a response.
+
+    '
+  background:
+    description: Can language models predict how long they will think? When I use
+      ChatGPT, it's really annoying when it thinks and I don't know how long it will
+      take to respond.
+  metadata:
+    source: IdeaHub
+    source_url: https://hypogenic.ai/ideahub/idea/oqBkks5jPI3MSKT6AkuK
+    idea_id: can_lms_predict_their_own_thin_20251201_010246_d95c0b5b
+    created_at: '2025-12-01T01:02:46.082477'
+    status: submitted
+    github_repo_name: lm-predict-thinking-edcf
+    github_repo_url: https://github.com/ChicagoHAI/lm-predict-thinking-edcf
